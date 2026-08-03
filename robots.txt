@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /cab-preview-k9x2m7/
+Sitemap: https://dropstack.ru/sitemap.xml
