@@ -340,5 +340,307 @@
    "favorites": 3,
    "status": "активно"
   }
- ]
+ ],
+ "suppliers": [
+  {
+   "name": "Канал поставщика 01",
+   "kind": "mix",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 02",
+   "kind": "womens",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 03",
+   "kind": "mix",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 04",
+   "kind": "mix",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 05",
+   "kind": "mens",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 06",
+   "kind": "mix",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 07",
+   "kind": "mix",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 08",
+   "kind": "womens",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 09",
+   "kind": "mix",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 10",
+   "kind": "mens",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 11",
+   "kind": "mix",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 12",
+   "kind": "mix",
+   "market": "Садовод · Москва",
+   "active": true
+  },
+  {
+   "name": "Канал поставщика 13",
+   "kind": "mens",
+   "market": "Садовод · Москва",
+   "active": true
+  }
+ ],
+ "assortment": {
+  "mens": [
+   {
+    "title": "Кроссовки мужские летние Adidas Sl.72",
+    "brand": "Adidas",
+    "sizes": 5,
+    "price": "4400"
+   },
+   {
+    "title": "Кроссовки мужские летние Adidas Sl.72",
+    "brand": "Adidas",
+    "sizes": 5,
+    "price": "4400"
+   },
+   {
+    "title": "Кроссовки мужские летние Adidas Sl.72",
+    "brand": "Adidas",
+    "sizes": 5,
+    "price": "4400"
+   },
+   {
+    "title": "Кроссовки мужские летние Adidas Raf Simons Ozweego",
+    "brand": "Adidas",
+    "sizes": 9,
+    "price": "5400"
+   },
+   {
+    "title": "Кроссовки мужские летние Adidas Raf Simons Ozweego",
+    "brand": "Adidas",
+    "sizes": 9,
+    "price": "5400"
+   },
+   {
+    "title": "Кроссовки мужские летние Adidas Raf Simons Ozweego",
+    "brand": "Adidas",
+    "sizes": 9,
+    "price": "5400"
+   },
+   {
+    "title": "Кроссовки мужские летние Adidas Raf Simons Ozweego",
+    "brand": "Adidas",
+    "sizes": 9,
+    "price": "5400"
+   },
+   {
+    "title": "Кроссовки мужские летние Adidas Raf Simons Ozweego",
+    "brand": "Adidas",
+    "sizes": 9,
+    "price": "5400"
+   },
+   {
+    "title": "Кроссовки мужские летние New Balance",
+    "brand": "New Balance",
+    "sizes": 9,
+    "price": "5100"
+   },
+   {
+    "title": "Кроссовки мужские летние текстиль",
+    "brand": "-",
+    "sizes": 9,
+    "price": "5100"
+   },
+   {
+    "title": "Кроссовки мужские летние Nike air force 1",
+    "brand": "Nike",
+    "sizes": 9,
+    "price": "4900"
+   },
+   {
+    "title": "Кроссовки мужские летние Nike air force 1",
+    "brand": "Nike",
+    "sizes": 9,
+    "price": "5400"
+   },
+   {
+    "title": "Кроссовки мужские летние Nike air force 1",
+    "brand": "Nike",
+    "sizes": 9,
+    "price": "4700"
+   },
+   {
+    "title": "Кроссовки мужские летние Nike air force 1",
+    "brand": "Nike",
+    "sizes": 9,
+    "price": "4700"
+   },
+   {
+    "title": "Кеды мужские летние Maison Margiela Replica",
+    "brand": "Maison Margiela",
+    "sizes": 9,
+    "price": "4900"
+   },
+   {
+    "title": "Кеды мужские летние Maison Margiela Replica",
+    "brand": "Maison Margiela",
+    "sizes": 9,
+    "price": "4900"
+   },
+   {
+    "title": "Кеды мужские летние Maison Margiela Replica",
+    "brand": "Maison Margiela",
+    "sizes": 5,
+    "price": "4900"
+   },
+   {
+    "title": "Кеды мужские летние Maison Margiela Replica",
+    "brand": "Maison Margiela",
+    "sizes": 5,
+    "price": "4900"
+   },
+   {
+    "title": "Кеды мужские летние Maison Margiela Replica",
+    "brand": "Maison Margiela",
+    "sizes": 5,
+    "price": "4900"
+   },
+   {
+    "title": "Кеды мужские летние Maison Margiela Replica",
+    "brand": "Maison Margiela",
+    "sizes": 5,
+    "price": "4900"
+   },
+   {
+    "title": "Кеды мужские летние Maison Margiela Replica",
+    "brand": "Maison Margiela",
+    "sizes": 5,
+    "price": "4900"
+   },
+   {
+    "title": "Кеды мужские летние Maison Margiela Replica",
+    "brand": "Maison Margiela",
+    "sizes": 5,
+    "price": "4900"
+   },
+   {
+    "title": "Кроссовки мужские летние Adidas Ozelia",
+    "brand": "Adidas",
+    "sizes": 5,
+    "price": "4900"
+   },
+   {
+    "title": "Кроссовки мужские летние Adidas Ozelia",
+    "brand": "Adidas",
+    "sizes": 5,
+    "price": "4900"
+   }
+  ],
+  "womens": [
+   {
+    "title": "Кроссовки женские летние Adidas Jeremy Scott",
+    "brand": "Adidas",
+    "sizes": 5,
+    "price": "9200"
+   },
+   {
+    "title": "Кроссовки женские летние Nike Blazer",
+    "brand": "Nike",
+    "sizes": 5,
+    "price": "4600"
+   },
+   {
+    "title": "Кроссовки женские летние Nike Blazer",
+    "brand": "Nike",
+    "sizes": 5,
+    "price": "4600"
+   },
+   {
+    "title": "Кроссовки женские летние Balenciaga Track 1",
+    "brand": "Balenciaga",
+    "sizes": 5,
+    "price": "7700"
+   },
+   {
+    "title": "Кроссовки женские летние Balenciaga Runner",
+    "brand": "Balenciaga",
+    "sizes": 5,
+    "price": "9200"
+   },
+   {
+    "title": "Кроссовки женские летние Balenciaga Runner",
+    "brand": "Balenciaga",
+    "sizes": 5,
+    "price": "9200"
+   },
+   {
+    "title": "Кроссовки женские летние Lacoste",
+    "brand": "Lacoste",
+    "sizes": 5,
+    "price": "4700"
+   },
+   {
+    "title": "Кроссовки женские летние Lacoste",
+    "brand": "Lacoste",
+    "sizes": 5,
+    "price": "4700"
+   },
+   {
+    "title": "Кроссовки женские летние Lacoste",
+    "brand": "Lacoste",
+    "sizes": 5,
+    "price": "4700"
+   },
+   {
+    "title": "Кроссовки женские летние New Balance 9060",
+    "brand": "New Balance",
+    "sizes": 5,
+    "price": "4800"
+   },
+   {
+    "title": "Кроссовки женские летние New Balance 9060",
+    "brand": "New Balance",
+    "sizes": 5,
+    "price": "4800"
+   },
+   {
+    "title": "Кроссовки женские летние New Balance 9060",
+    "brand": "New Balance",
+    "sizes": 5,
+    "price": "4800"
+   }
+  ]
+ }
 }
